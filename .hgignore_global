@@ -1,0 +1,15 @@
+syntax: glob
+*.pyc
+*.pyo
+*.egg-info
+.eggs
+build
+dist
+__pycache__
+env
+.ipynb_checkpoints
+.DS_Store
+.idea
+.cache
+.tox
+*.sublime-*

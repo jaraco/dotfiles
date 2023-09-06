@@ -1,0 +1,70 @@
+[auth]
+bitbucket.username = jaraco
+bitbucket.prefix = bitbucket.org
+google.username = jaraco@jaraco.com
+google.prefix = code.google.com
+imcva.username = jaraco
+imcva.prefix = svn.imcva.com
+kiln.username = jason.coombs@yougov.com
+kiln.prefix = yougov.kilnhg.com
+sourceforge.username = jaraco
+sourceforge.prefix = hg.code.sf.net
+github.username = jaraco
+github.prefix = github.com
+gitlabyg.username = jaraco
+gitlabyg.prefix = gitlab.yougov.net
+heptapod.username = jaraco@jaraco.com
+heptapod.prefix = foss.heptapod.net
+
+[ui]
+username = Jason R. Coombs <jaraco@jaraco.com>
+ignore = ~/.hgignore_global
+# merge = Kaleidoscope
+# merge = filemerge
+merge = smerge
+
+[merge-tools]
+smerge.args = mergetool $base $local $other -o $output
+
+[extensions]
+hgext.extdiff =
+hgext.graphlog =
+hgext.patchbomb =
+convert =
+histedit =
+rebase =
+transplant =
+schemes =
+purge =
+share =
+shelve =
+strip =
+evolve =
+topic =
+
+[schemes]
+bb = https://bitbucket.org/
+bbg = git+https://bitbucket.org/
+py = ssh://hg@hg.python.org/
+ghh = git+https://github.com/
+#gh = git+https://github.com/
+gh = git+ssh://github.com/
+yg = ssh://dev/
+gg = https://code.google.com/p/
+gist = git+ssh://git@gist.github.com:
+kiln = https://yougov.kilnhg.com/Code/Repositories/
+kilng = git+https://yougov.kilnhg.com/Code/Repositories/
+ald = git+ssh://git@src.aldebaran-robotics.com:
+sf = https://hg.code.sf.net/p/
+hk = git+ssh://git@heroku.com:
+gl = git+ssh://gitlab.com:
+glyg = git+https://gitlab.yougov.net/
+hp = https://foss.heptapod.net/
+
+[tortoisehg]
+fontcomment = MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0
+fontdiff = Consolas,12,-1,5,50,0,0,0,0,0
+fontlog = MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0
+
+[pager]
+pager =
