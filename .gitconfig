@@ -1,0 +1,69 @@
+[user]
+	name = Jason R. Coombs
+	email = jaraco@jaraco.com
+	signingkey = 708E6CB181B4C47E
+
+[init]
+	defaultBranch = main
+
+[include]
+	path = ~/.config/git/config
+[includeIf "gitdir:code/privacymate/"]
+	path = ~/pm/.gitconfig
+[includeIf "gitdir:code/yg/"]
+	path = ~/yg/.gitconfig
+[include]
+	path = config/google3/experimental/users/jaraco/config/.gitconfig
+
+[url "https://github.com/"]
+	insteadOf = gh://
+[url "git@heroku.com:"]
+	insteadOf = hk:
+[url "https://gitlab.com/"]
+	insteadOf = gl://
+[url "https://bitbucket.org/"]
+	insteadOf = bb://
+[url "https://gist.github.com/"]
+	insteadOf = gist://
+[url "https://git.openstack.org/openstack/"]
+	insteadOf = os://
+[url "https://git.code.sf.net/p/"]
+	insteadOf = sf://
+
+[push]
+	default = simple
+	followTags = true
+
+[alias]
+	tags = tag --sort=-taggerdate
+	lol = log --pretty=format:\"%C(green)%h %C(yellow)[%ad]%Cred%d %Creset%s%Cblue [%cn]\" --decorate --date=relative --graph
+	atag = tag -a -m ""
+	tag = atag
+
+[core]
+	excludesfile = ~/.gitignore_global
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Applications/Sourcetree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true
+[mergetool "smerge"]
+	cmd = smerge mergetool \"$BASE\" \"$LOCAL\" \"$REMOTE\" -o \"$MERGED\"
+	trustExitCode = true
+[merge]
+#	tool = opendiff
+	tool = smerge
+[commit]
+	template = ~/.stCommitMsg
+	gpgsign = true
+[pull]
+	rebase = false
+[tag]
+	gpgSign = true
+
+[mergetool "known-merge"]
+	cmd = py -m jaraco.develop.merge "$BASE" "$LOCAL" "$REMOTE" "$MERGED"
+	trustExitCode = true
+[safe]
+	directory = ~/code/python/importlib_resources
