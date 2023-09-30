@@ -6,6 +6,10 @@
 [init]
 	defaultBranch = main
 
+[commit]
+	template = ~/.stCommitMsg
+	gpgsign = true
+
 [include]
 	path = ~/.config/git/config
 [includeIf "gitdir:code/privacymate/"]
@@ -54,9 +58,6 @@
 [merge]
 #	tool = opendiff
 	tool = smerge
-[commit]
-	template = ~/.stCommitMsg
-	gpgsign = true
 [pull]
 	rebase = false
 [tag]
