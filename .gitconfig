@@ -10,14 +10,8 @@
 	template = ~/.stCommitMsg
 	gpgsign = true
 
-[include]
-	path = ~/.config/git/config
-[includeIf "gitdir:code/privacymate/"]
-	path = ~/pm/.gitconfig
-[includeIf "gitdir:code/yg/"]
-	path = ~/yg/.gitconfig
-[include]
-	path = config/google3/experimental/users/jaraco/config/.gitconfig
+[tag]
+	gpgSign = true
 
 [url "https://github.com/"]
 	insteadOf = gh://
@@ -60,11 +54,18 @@
 	tool = smerge
 [pull]
 	rebase = false
-[tag]
-	gpgSign = true
 
 [mergetool "known-merge"]
 	cmd = py -m jaraco.develop.merge "$BASE" "$LOCAL" "$REMOTE" "$MERGED"
 	trustExitCode = true
 [safe]
 	directory = ~/code/python/importlib_resources
+
+[include]
+	path = ~/.config/git/config
+[includeIf "gitdir:code/privacymate/"]
+	path = ~/pm/.gitconfig
+[includeIf "gitdir:code/yg/"]
+	path = ~/yg/.gitconfig
+[include]
+	path = config/google3/experimental/users/jaraco/config/.gitconfig
