@@ -60,6 +60,7 @@
 	trustExitCode = true
 [safe]
 	directory = ~/code/python/importlib_resources
+	bareRepository = explicit
 
 [include]
 	path = ~/.config/git/config
