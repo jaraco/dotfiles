@@ -1,0 +1,154 @@
+/businho/pytest-ruff [fork]
+/celery/kombu [fork]
+/cherrypy/cheroot
+/cherrypy/cherrypy
+/cherrypy/cherrypy-cors
+/enthought/comtypes [fork]
+/enthought/pywin32-ctypes [fork]
+/git/git [fork]
+/googleapis/google-auth-library-python [fork]
+/indygreg/PyOxidizer [fork]
+/indygreg/python-build-standalone [fork]
+/jamielennox/requests-mock [fork]
+/JordanMilne/ShenanigaNFS [fork]
+/jsonpickle/jsonpickle [fork]
+/Lucretiel/autocommand [fork]
+/martinvonz/jj [fork]
+/MestreLion/git-tools
+/microCOVID/microCOVID [fork]
+/pmxbot/chucknorris
+/pmxbot/excuses
+/pmxbot/pmxbot [lifted]
+/pmxbot/pmxbot.nsfw
+/psf/black [fork]
+/pypa/build [fork]
+/pypa/distutils
+/pypa/get-pip [fork]
+/pypa/packaging [fork]
+/pypa/pep517 [fork]
+/pypa/pip [fork]
+/pypa/setuptools [lifted]
+/pypa/setuptools_scm [fork]
+/pypa/twine
+/pytest-dev/execnet [fork]
+/pytest-dev/pytest [fork]
+/python/bedevere [fork]
+/python/cpython [fork]
+/python/devguide [fork]
+/python/importlib_metadata [lifted]
+/python/importlib_resources [lifted]
+/python/miss-islington [fork]
+/python/mypy [fork]
+/reubano/csv2ofx [fork]
+/ronaldoussoren/pyobjc [fork]
+/schettino72/pytest-ignore-flaky
+/shopkeep/pytest-black [fork]
+/sphinx-contrib/sphinxcontrib-towncrier [fork]
+/StefanScherer/windows-docker-machine [fork]
+/tholo/pytest-flake8 [fork]
+/tox-dev/tox [fork]
+/twisted/towncrier [fork]
+/xonsh/xonsh [fork]
+backports.entry_points_selectable
+backports.functools_lru_cache [lifted]
+backports.hook_compressed
+backports.pdb
+calendra
+cmdix
+compilers
+configparser [lifted]
+cssutils [lifted]
+dotfiles
+dropbox-index
+freedompop
+googlevoice
+inflect [lifted]
+irc [lifted]
+jaraco.abode
+jaraco.apt
+jaraco.classes [lifted]
+jaraco.clipboard
+jaraco.collections [lifted]
+jaraco.compat
+jaraco.context [lifted]
+jaraco.crypto
+jaraco.desktop
+jaraco.develop
+jaraco.docker
+jaraco.email
+jaraco.env
+jaraco.envs
+jaraco.fabric
+jaraco.financial
+jaraco.functools [lifted]
+jaraco.geo
+jaraco.github.io
+jaraco.home
+jaraco.imaging
+jaraco.input
+jaraco.itertools
+jaraco.keyring
+jaraco.logging
+jaraco.media
+jaraco.modb
+jaraco.mongodb
+jaraco.net
+jaraco.nxt
+jaraco.office
+jaraco.packaging
+jaraco.parables
+jaraco.path
+jaraco.pghfreethought
+jaraco.pmxbot
+jaraco.postgres
+jaraco.services
+jaraco.site
+jaraco.stream
+jaraco.structures
+jaraco.test
+jaraco.text [lifted]
+jaraco.tidelift
+jaraco.timing
+jaraco.translate
+jaraco.ui
+jaraco.util
+jaraco.vcs
+jaraco.versioning
+jaraco.video
+jaraco.windows
+jaraco.xkcd
+jaraco.xonsh
+jaraco.zstd
+keyring [lifted]
+keyrings.alt [lifted]
+keyrings.firefox
+keyrings.gauth
+librarypaste
+lpaste
+moneydance
+multipy-tox
+nat-pmp
+nspektr
+oathtool
+openpack
+paradocx
+path [lifted]
+pip-run [lifted]
+pmxbot.webhooks
+portend
+pytest-checkdocs
+pytest-enabler
+pytest-home
+pytest-perf
+recapturedocs
+rst.linker
+scicomm.pro
+singledispatch
+skeleton [base]
+svg.charts
+tempora [lifted]
+tidelift [base]
+treehouse
+wolframalpha
+xlsxcessive
+zipp [lifted]
