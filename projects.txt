@@ -45,6 +45,7 @@
 /shopkeep/pytest-black [fork]
 /sphinx-contrib/sphinxcontrib-towncrier [fork]
 /StefanScherer/windows-docker-machine [fork]
+/suds-community/suds [fork]
 /tholo/pytest-flake8 [fork]
 /tox-dev/tox [fork]
 /twisted/towncrier [fork]
