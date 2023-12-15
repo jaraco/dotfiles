@@ -16,6 +16,7 @@
 /martinvonz/jj [fork]
 /MestreLion/git-tools
 /microCOVID/microCOVID [fork]
+/microsoft/vscode [fork]
 /pmxbot/chucknorris
 /pmxbot/excuses
 /pmxbot/pmxbot [lifted]
