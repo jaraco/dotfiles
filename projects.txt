@@ -41,6 +41,7 @@
 /python/miss-islington [fork]
 /python/mypy [fork]
 /reubano/csv2ofx [fork]
+/reubano/meza [fork]
 /ronaldoussoren/pyobjc [fork]
 /schettino72/pytest-ignore-flaky
 /shopkeep/pytest-black [fork]
