@@ -122,7 +122,7 @@ jaraco.windows
 jaraco.xkcd
 jaraco.xonsh
 jaraco.zstd
-keyring [lifted]
+keyring [lifted] (python, keyring, python-keyring, keychain, secrets, dbus)
 keyrings.alt [lifted]
 keyrings.firefox
 keyrings.gauth
@@ -135,14 +135,14 @@ nspektr
 oathtool
 openpack
 paradocx
-path [lifted]
-pip-run [lifted]
+path [lifted] (python, python-path, pathlib, path)
+pip-run [lifted] (python, pip, pip-run, dependency management)
 pmxbot.webhooks
 portend
 pytest-checkdocs
 pytest-enabler
 pytest-home
-pytest-perf
+pytest-perf (pytest, performance, performance testing)
 recapturedocs
 rst.linker
 scicomm.pro
