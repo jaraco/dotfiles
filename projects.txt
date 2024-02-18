@@ -51,6 +51,7 @@
 /tholo/pytest-flake8 [fork]
 /tox-dev/tox [fork]
 /twisted/towncrier [fork]
+/ValentinBELYN/icmplib [fork]
 /xonsh/xonsh [fork]
 backports.entry_points_selectable
 backports.functools_lru_cache [lifted]
