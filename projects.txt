@@ -17,6 +17,7 @@
 /MestreLion/git-tools
 /microCOVID/microCOVID [fork]
 /microsoft/vscode [fork]
+/NumbersStationAI/DuckDB-NSQL [fork]
 /omaha-data/omaha
 /pmxbot/chucknorris
 /pmxbot/excuses
