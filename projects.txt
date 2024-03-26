@@ -3,6 +3,7 @@
 /cherrypy/cheroot
 /cherrypy/cherrypy
 /cherrypy/cherrypy-cors
+/Dao-AILab/flash-attention [fork]
 /enthought/comtypes [fork]
 /enthought/pywin32-ctypes [fork]
 /git/git [fork]
