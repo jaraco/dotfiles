@@ -115,7 +115,6 @@ jaraco.structures
 jaraco.test
 jaraco.text [lifted]
 jaraco.tidelift
-jaraco.timing
 jaraco.translate
 jaraco.ui
 jaraco.util
