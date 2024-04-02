@@ -129,7 +129,6 @@ jaraco.zstd
 keyring [lifted]
 keyrings.alt [lifted]
 keyrings.firefox
-keyrings.gauth
 librarypaste
 lpaste
 moneydance
