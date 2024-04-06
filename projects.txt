@@ -60,6 +60,7 @@ backports.entry_points_selectable
 backports.functools_lru_cache [lifted]
 backports.hook_compressed
 backports.pdb
+backports.tarfile
 calendra
 cmdix
 compilers
