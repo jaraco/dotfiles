@@ -4,6 +4,7 @@
 /cherrypy/cherrypy
 /cherrypy/cherrypy-cors
 /coherent-oss/pytest-ignore-flaky
+/coherent-oss/python-kustomize
 /Dao-AILab/flash-attention [fork]
 /enthought/comtypes [fork]
 /enthought/pywin32-ctypes [fork]
