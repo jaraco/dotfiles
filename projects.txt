@@ -7,6 +7,7 @@
 /coherent-oss/coherent.test
 /coherent-oss/pytest-ignore-flaky
 /coherent-oss/python-kustomize
+/coherent-oss/system
 /Dao-AILab/flash-attention [fork]
 /enthought/comtypes [fork]
 /enthought/pywin32-ctypes [fork]
