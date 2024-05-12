@@ -13,6 +13,7 @@
 /enthought/pywin32-ctypes [fork]
 /git/git [fork]
 /googleapis/google-auth-library-python [fork]
+/home-assistant/core [fork]
 /indygreg/PyOxidizer [fork]
 /indygreg/python-build-standalone [fork]
 /jamielennox/requests-mock [fork]
