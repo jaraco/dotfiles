@@ -14,6 +14,7 @@
 /git/git [fork]
 /googleapis/google-auth-library-python [fork]
 /home-assistant/core [fork]
+/home-assistant/home-assistant.io [fork]
 /indygreg/PyOxidizer [fork]
 /indygreg/python-build-standalone [fork]
 /jamielennox/requests-mock [fork]
