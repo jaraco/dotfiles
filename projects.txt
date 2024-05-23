@@ -33,6 +33,7 @@
 /pmxbot/pmxbot [lifted]
 /pmxbot/pmxbot.nsfw
 /psf/black [fork]
+/pyodide/micropip [fork]
 /pypa/build [fork]
 /pypa/distutils
 /pypa/get-pip [fork]
