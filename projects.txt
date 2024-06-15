@@ -5,6 +5,7 @@
 /cherrypy/cherrypy
 /cherrypy/cherrypy-cors
 /coherent-oss/coherent.build
+/coherent-oss/coherent.cli
 /coherent-oss/coherent.test
 /coherent-oss/pytest-ignore-flaky
 /coherent-oss/python-kustomize
