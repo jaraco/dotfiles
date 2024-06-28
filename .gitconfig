@@ -73,3 +73,5 @@
 	path = config/google3/experimental/users/jaraco/config/.gitconfig
 [advice]
 	detachedHead = false
+[rerere]
+	enabled = true
