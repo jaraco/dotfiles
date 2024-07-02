@@ -43,6 +43,7 @@
 /pypa/pep517 [fork]
 /pypa/pip [fork]
 /pypa/pipx [fork]
+/pypa/pyproject-hooks [fork]
 /pypa/setuptools [lifted]
 /pypa/setuptools_scm [fork]
 /pypa/twine
