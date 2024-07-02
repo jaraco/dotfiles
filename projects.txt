@@ -40,7 +40,6 @@
 /pypa/distutils
 /pypa/get-pip [fork]
 /pypa/packaging [fork]
-/pypa/pep517 [fork]
 /pypa/pip [fork]
 /pypa/pipx [fork]
 /pypa/pyproject-hooks [fork]
