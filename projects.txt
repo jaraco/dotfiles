@@ -1,4 +1,5 @@
 /astral-sh/ruff [fork]
+/astral-sh/uv [fork]
 /businho/pytest-ruff [fork]
 /celery/kombu [fork]
 /cherrypy/cheroot
