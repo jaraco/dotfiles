@@ -8,6 +8,7 @@
 /coherent-oss/coherent.build
 /coherent-oss/coherent.cli
 /coherent-oss/coherent.test
+/coherent-oss/pytest-flake8
 /coherent-oss/pytest-ignore-flaky
 /coherent-oss/python-kustomize
 /coherent-oss/system
@@ -63,7 +64,6 @@
 /sphinx-contrib/sphinxcontrib-towncrier [fork]
 /StefanScherer/windows-docker-machine [fork]
 /suds-community/suds [fork]
-/tholo/pytest-flake8 [fork]
 /tox-dev/tox [fork]
 /twisted/towncrier [fork]
 /ValentinBELYN/icmplib [fork]
