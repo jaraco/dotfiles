@@ -27,6 +27,7 @@
 /Lucretiel/autocommand [fork]
 /martinvonz/jj [fork]
 /MestreLion/git-tools
+/mhammond/pywin32 [fork]
 /microCOVID/microCOVID [fork]
 /microsoft/vscode [fork]
 /NumbersStationAI/DuckDB-NSQL [fork]
