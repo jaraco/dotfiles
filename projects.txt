@@ -50,6 +50,7 @@
 /pypa/setuptools [lifted]
 /pypa/setuptools_scm [fork]
 /pypa/twine
+/pypa/wheel
 /pytest-dev/execnet [fork]
 /pytest-dev/pytest [fork]
 /python/bedevere [fork]
