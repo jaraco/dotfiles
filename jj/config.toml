@@ -1,0 +1,8 @@
+[signing]
+sign-all = true
+backend = "gpg"
+key = "708E6CB181B4C47E"
+
+[user]
+name = "Jason R. Coombs"
+email = "jaraco@jaraco.com"
