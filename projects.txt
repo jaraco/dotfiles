@@ -48,7 +48,7 @@
 /pypa/pyproject-hooks [fork]
 /pypa/rootbeer
 /pypa/setuptools [lifted]
-/pypa/setuptools_scm [fork]
+/pypa/setuptools-scm [fork]
 /pypa/twine
 /pypa/wheel
 /pytest-dev/execnet [fork]
