@@ -7,6 +7,7 @@
 /cherrypy/cherrypy-cors
 /coherent-oss/coherent.build
 /coherent-oss/coherent.cli
+/coherent-oss/coherent.deps
 /coherent-oss/coherent.test
 /coherent-oss/pytest-flake8
 /coherent-oss/pytest-ignore-flaky
