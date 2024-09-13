@@ -32,7 +32,6 @@
 /microCOVID/microCOVID [fork]
 /microsoft/vscode [fork]
 /NumbersStationAI/DuckDB-NSQL [fork]
-/omaha-data/omaha
 /pfmoore/editables [fork]
 /pmxbot/chucknorris
 /pmxbot/excuses
