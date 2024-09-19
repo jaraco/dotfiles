@@ -162,6 +162,7 @@ pytest-enabler
 pytest-home
 pytest-perf
 recapturedocs
+ROCIS.downloader
 rst.linker
 scicomm.pro
 singledispatch
