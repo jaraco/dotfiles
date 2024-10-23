@@ -121,6 +121,7 @@ jaraco.office
 jaraco.packaging
 jaraco.parables
 jaraco.path
+jaraco.pdf
 jaraco.pghfreethought
 jaraco.pmxbot
 jaraco.postgres
