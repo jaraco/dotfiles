@@ -77,3 +77,5 @@
 	detachedHead = false
 [rerere]
 	enabled = true
+[submodule]
+	recurse = true
