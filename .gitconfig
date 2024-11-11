@@ -43,7 +43,7 @@
 	excludesfile = ~/.gitignore_global
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
-	path = 
+	path =
 [mergetool "sourcetree"]
 	cmd = /Applications/Sourcetree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
 	trustExitCode = true
@@ -71,7 +71,7 @@
 	path = ~/yg/.gitconfig
 [includeIf "hasconfig:remote.*.url:sso://**"]
 	path = config/google3/experimental/users/jaraco/config/.gitconfig
-[include]
+[includeIf "gitdir:/repos/"]
 	path = /repos/jaraco-config/.gitconfig
 [advice]
 	detachedHead = false
