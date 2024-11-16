@@ -71,6 +71,7 @@
 /twisted/towncrier [fork]
 /ValentinBELYN/icmplib [fork]
 /xonsh/xonsh [fork]
+/zopefoundation/zc.lockfile [fork]
 backports.entry_points_selectable
 backports.functools_lru_cache [lifted]
 backports.hook_compressed
