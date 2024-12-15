@@ -64,7 +64,6 @@
 /reubano/csv2ofx [fork]
 /reubano/meza [fork]
 /ronaldoussoren/pyobjc [fork]
-/shopkeep/pytest-black [fork]
 /sphinx-contrib/sphinxcontrib-towncrier [fork]
 /StefanScherer/windows-docker-machine [fork]
 /suds-community/suds [fork]
