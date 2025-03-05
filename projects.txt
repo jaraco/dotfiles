@@ -61,8 +61,8 @@
 /python/importlib_resources [lifted]
 /python/miss-islington [fork]
 /python/mypy [fork]
-/reubano/csv2ofx [fork]
-/reubano/meza [fork]
+/reubano/csv2ofx
+/reubano/meza
 /ronaldoussoren/pyobjc [fork]
 /sphinx-contrib/sphinxcontrib-towncrier [fork]
 /StefanScherer/windows-docker-machine [fork]
