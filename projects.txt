@@ -78,6 +78,7 @@ backports.hook_compressed
 backports.pdb
 backports.tarfile
 calendra
+casperdcl/git-fame [fork]
 cmdix
 compilers
 configparser [lifted]
