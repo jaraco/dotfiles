@@ -1,6 +1,7 @@
 /astral-sh/ruff [fork]
 /astral-sh/uv [fork]
 /businho/pytest-ruff [fork]
+/casperdcl/git-fame [fork]
 /celery/kombu [fork]
 /cherrypy/cheroot
 /cherrypy/cherrypy
