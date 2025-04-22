@@ -1,3 +1,4 @@
+/astral-sh/python-build-standalone [fork]
 /astral-sh/ruff [fork]
 /astral-sh/uv [fork]
 /businho/pytest-ruff [fork]
@@ -23,7 +24,6 @@
 /home-assistant/core [fork]
 /home-assistant/home-assistant.io [fork]
 /indygreg/PyOxidizer [fork]
-/indygreg/python-build-standalone [fork]
 /jamielennox/requests-mock [fork]
 /JordanMilne/ShenanigaNFS [fork]
 /jsonpickle/jsonpickle [fork]
