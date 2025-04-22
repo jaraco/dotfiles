@@ -25,10 +25,10 @@
 /home-assistant/home-assistant.io [fork]
 /indygreg/PyOxidizer [fork]
 /jamielennox/requests-mock [fork]
+/jj-vcs/jj [fork]
 /JordanMilne/ShenanigaNFS [fork]
 /jsonpickle/jsonpickle [fork]
 /Lucretiel/autocommand [fork]
-/martinvonz/jj [fork]
 /MestreLion/git-tools
 /mhammond/pywin32 [fork]
 /microCOVID/microCOVID [fork]
