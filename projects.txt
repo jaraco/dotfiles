@@ -10,6 +10,7 @@
 /coherent-oss/coherent.build
 /coherent-oss/coherent.cli
 /coherent-oss/coherent.deps
+/coherent-oss/coherent.licensed
 /coherent-oss/coherent.test
 /coherent-oss/pytest-black
 /coherent-oss/pytest-flake8
