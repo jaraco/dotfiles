@@ -74,7 +74,7 @@
 [includeIf "hasconfig:remote.*.url:sso://**"]
 	path = config/google3/experimental/users/jaraco/config/.gitconfig
 [includeIf "gitdir:repos/"]
-	path = /repos/jaraco-config/.gitconfig
+	path = /repos/users/jaraco/.gitconfig
 [advice]
 	detachedHead = false
 [rerere]
