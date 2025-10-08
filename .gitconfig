@@ -8,10 +8,10 @@
 
 [commit]
 	template = ~/.stCommitMsg
-	gpgsign = true
+	# gpgsign = true
 
 [tag]
-	gpgSign = true
+	# gpgSign = true
 
 [url "https://github.com/"]
 	insteadOf = gh://
@@ -81,3 +81,9 @@
 	enabled = true
 [submodule]
 	recurse = true
+[credential "azrepos:org/msazure"]
+	username = jaraco@microsoft.com
+[credential "azrepos:org/mseng"]
+	username = jaraco@microsoft.com
+[credential "azrepos:org/armmanifest"]
+	username = jaraco@microsoft.com
