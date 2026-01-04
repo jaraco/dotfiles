@@ -66,6 +66,7 @@
 /reubano/csv2ofx
 /reubano/meza
 /ronaldoussoren/pyobjc [fork]
+/SnapEscalatorCarrousel/import_fidelity
 /sphinx-contrib/sphinxcontrib-towncrier [fork]
 /StefanScherer/windows-docker-machine [fork]
 /suds-community/suds [fork]
