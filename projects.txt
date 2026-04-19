@@ -13,6 +13,7 @@
 /coherent-oss/coherent.docs
 /coherent-oss/coherent.licensed
 /coherent-oss/coherent.test
+/coherent-oss/encutils
 /coherent-oss/pytest-black
 /coherent-oss/pytest-flake8
 /coherent-oss/pytest-ignore-flaky
