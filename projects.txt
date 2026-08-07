@@ -163,6 +163,7 @@ openpack
 paradocx
 path [lifted]
 pip-run [lifted]
+pluslife-analyzer
 pmxbot.webhooks
 portend
 pytest-checkdocs
