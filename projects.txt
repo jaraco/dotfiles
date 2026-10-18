@@ -33,7 +33,7 @@
 /JordanMilne/ShenanigaNFS [fork]
 /jsonpickle/jsonpickle [fork]
 /Lucretiel/autocommand [fork]
-/MestreLion/git-tools
+/MestreLion/git-tools [fork]
 /mhammond/pywin32 [fork]
 /microCOVID/microCOVID [fork]
 /microsoft/vscode [fork]
@@ -69,7 +69,7 @@
 /reubano/csv2ofx
 /reubano/meza
 /ronaldoussoren/pyobjc [fork]
-/SnapEscalatorCarrousel/import_fidelity
+/SnapEscalatorCarrousel/import_fidelity [fork]
 /sphinx-contrib/sphinxcontrib-towncrier [fork]
 /StefanScherer/windows-docker-machine [fork]
 /suds-community/suds [fork]
