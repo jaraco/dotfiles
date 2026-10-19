@@ -22,6 +22,6 @@ coverage.xml
 *.sublime-*
 .venv
 uv.lock
-LICENSE
+/LICENSE
 
 **/.claude/settings.local.json
