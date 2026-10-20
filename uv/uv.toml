@@ -1,0 +1,5 @@
+# uv global configuration.
+# Keep uv from managing its own Python installs; use the interpreters
+# installed on the system (Homebrew, python.org, etc.) instead.
+python-preference = "only-system"
+python-downloads = "never"
