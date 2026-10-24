@@ -66,6 +66,7 @@
 /python/importlib_resources [lifted]
 /python/miss-islington [fork]
 /python/mypy [fork]
+/python/skills [fork]
 /reubano/csv2ofx
 /reubano/meza
 /ronaldoussoren/pyobjc [fork]
